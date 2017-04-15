@@ -1,0 +1,3 @@
+[submodule "build/getting-fishy"]
+	path = build/getting-fishy
+	url = git@github.com:mbburch/getting-fishy.git
